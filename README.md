@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luxna Ramnauth</h1>
+#🌞Luxna Ramnauth
 <h3 align="center">A passionate Data Engineer and Data Scientist from Mauritius</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxnaramnauth1&label=Profile%20views&color=0e75b6&style=flat" alt="luxnaramnauth1" /> </p>
