@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luxnaramnauth1&label=Profile%20views&color=0e75b6&style=flat" alt="luxnaramnauth1" /> </p>
 
-<h4>I'm a Data Engineer with hands-on experience spanning machine learning, data science, MLOps, QA engineering, and full-stack development. bring expertise in SQL optimisation, ETL pipeline design, predictive modelling, statistical analysis, and data visualisation using Power BI, Tableau, and advanced Excel, backed by measurable impact. As a data scientist, I work across Pandas and NumPy for data wrangling, Scikit-learn and TensorFlow for modelling, statistical libraries for hypothesis testing, and Jupyter Notebooks for exploratory analysis. On MLOps, I've used Apache Airflow for workflow orchestration and CI/CD pipelines for reliable ML deployment. I've also built foundational knowledge of Agentic AI and Retrieval-Augmented Generation (RAG) through dedicated coursework </h4>
+<h4>I'm a Data Engineer with hands-on experience spanning machine learning, data science, MLOps, QA engineering, and full-stack development. bring expertise in SQL optimisation, ETL pipeline design backed by measurable impact. As a data scientist, I work across Pandas and NumPy for data wrangling and TensorFlow for modelling, statistical libraries for hypothesis testing, and Jupyter Notebooks for exploratory analysis. On MLOps, I've used Apache Airflow for workflow orchestration and CI/CD pipelines for reliable ML deployment. I've also built foundational knowledge of Agentic AI and Retrieval-Augmented Generation (RAG) through dedicated coursework </h4>
 
 🌞 Be Bold & Ambitious🌞
 
