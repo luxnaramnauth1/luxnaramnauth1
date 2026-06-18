@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **Machine Learning,Python,Scala and Apache Spark**
 
-- 📄 Know about my experiences [Linkdin Profile](Linkdin Profile Luxna Ramnauth)
-
+- 📄 Know about my experiences Data Engineer | Banking | AI & Machine Learning | Data Scientist | Python | Databricks Pipelines | SQL | Apache Spark | Agentic AI | FinTech | Be Bold & Ambitious
 
 
 <h3 align="left">Connect with me:</h3>
