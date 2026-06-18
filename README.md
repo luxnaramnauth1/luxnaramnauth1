@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luxnaramnauth1" alt="luxnaramnauth1" /></a> </p>
 
 
-I'm a  Data Engineer | Banking | AI & Machine Learning | Data Scientist | Python | Databricks Pipelines | SQL | Apache Spark | Agentic AI | FinTech | Be Bold & Ambitious.
+ Be Bold & Ambitious.
 
 - 🌱 I’m currently learning **Agentic AI,GENAI,AI Engineer**
 
