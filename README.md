@@ -8,11 +8,7 @@
 
  Be Bold & Ambitious.
 
-- 🌱 I’m currently learning **Agentic AI,GENAI,AI Engineer**
-
 ### 🧰 Languages and Tools
-
-- 🌱 I’m currently learning **Agentic AI • GenAI • AI Engineering**
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%230074D9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -24,7 +20,6 @@
 ![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white)
 ![AI Engineer](https://img.shields.io/badge/AI_Engineer-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
