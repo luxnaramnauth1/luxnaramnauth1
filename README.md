@@ -7,6 +7,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luxnaramnauth1" alt="luxnaramnauth1" /></a> </p>
 
 
+<div style="text-align:center; margin-top:30px;">
+  <iframe
+      width="900"
+      height="506"
+      src="https://www.youtube.com/embed/EH5jx5qPabU"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+</div>
+
+
+
+
  Be Bold & Ambitious.
 
 - 🌱 I’m currently learning **Agentic AI,GENAI,AI Engineer**
@@ -28,17 +43,6 @@
 #
 
 
-<div style="text-align:center; margin-top:30px;">
-  <iframe
-      width="900"
-      height="506"
-      src="https://www.youtube.com/embed/EH5jx5qPabU"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-  </iframe>
-</div>
 
 
 
