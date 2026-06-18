@@ -6,29 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luxnaramnauth1" alt="luxnaramnauth1" /></a> </p>
 
-
-<div style="text-align:center; margin-top:30px;">
-  <iframe
-      width="900"
-      height="506"
-      src="https://www.youtube.com/embed/EH5jx5qPabU"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-  </iframe>
-</div>
-
-
-
-
  Be Bold & Ambitious.
 
 - 🌱 I’m currently learning **Agentic AI,GENAI,AI Engineer**
 
-- 💬 Ask me about **Machine Learning,Python,Scala and Apache Spark**
-
 ### 🧰 Languages and Tools
+
+- 🌱 I’m currently learning **Agentic AI • GenAI • AI Engineering**
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%230074D9.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,10 +20,14 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/apache_spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/apache_kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/apache_airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/apache_airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-0A66C2?style=for-the-badge&logo=tensorflow&logoColor=white)
 #
 
 
