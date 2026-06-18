@@ -1,9 +1,3 @@
-
-
-
-**luxnaramnauth1/luxnaramnauth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h1 align="center">Hi 👋, I'm Luxna Ramnauth</h1>
 <h3 align="center">A passionate Data Engineer and Data Scientist from Mauritius</h3>
 
@@ -15,9 +9,9 @@
 
 - 💬 Ask me about **Machine Learning,Python,Scala and Apache Spark**
 
-- 📄 Know about my experiences [Linkdin Profile](Linkdin Profile)
+- 📄 Know about my experiences [Linkdin Profile](Linkdin Profile Luxna Ramnauth)
 
-- ⚡ Fun fact **DANCING**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
